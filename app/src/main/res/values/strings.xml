@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wisata Wonosobo</string>
+    <string name="profile">profile</string>
+    <string name="my_name">Fajar Maulana</string>
+    <string name="email">fajarmaulana_math@students.unnes.ac.id</string>
+    <string name="dest_name">Nama Destinasi</string>
+    <string name="dest_detail">Detail Destinasi</string>
+    <string name="content_detail">Detail Konten</string>
+    <string name="location">Lokasi dan Harga Tiket</string>
+    <string name="location_content">Konten Lokasi</string>
+</resources>
